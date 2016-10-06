@@ -1,0 +1,100 @@
+.top{
+	width:100%; background:url(../img/top_bg.png) repeat-x; height:28px;
+}
+.top_nav{
+	width:950px; margin:0 auto; height:28px;  overflow: hidden;
+}
+.top_nav div{
+	float: left;
+}
+.top_nav_two{
+	margin-left:336px;
+}
+.top_nav_two a{
+	font-size:12px; line-height: 28px; padding-right:8px; background:url(../img/top_list_bj.png) no-repeat right center;
+	padding-left:10px;
+}
+.top_nav_two .dianpu{
+	background-image:none;
+}
+.top_nav_three{
+	overflow: hidden; width:104px; height:28px; margin-left:60px; position: relative;
+}
+.top_nav_three_con{
+	display: block; width:102px; height:19px; border:1px solid #ded7c7; background:url(../img/top_ri_bg.png) repeat-x; 
+	margin-top:3px;  font-size:12px; color:red; overflow: hidden; float: left; position: absolute; text-align: center;
+} 
+.threeyears{
+	position: absolute; width:15px; height:15px; background:url(../img/three_bg.png) repeat-x; border-radius: 30px; 
+	font-size:12px; color:#fff; text-align: center; line-height: 15px; left:62px; top:4px;
+}
+/*顶部写完*/
+.main{
+	width:100%; background:url(../img/main_bg.png) repeat-y; height:1053px; padding-top:44px;
+}
+.main_con{
+	width:950px; margin:0 auto;     margin-bottom:21px;
+}
+.main_con_tit{
+	width:950px; height:36px; overflow: hidden;
+}
+.main_con_tit h1{
+	font-size:22px; font-weight: bold; float: left;
+}
+.main_con_tit p{
+	font-size:14px; width:204px; height:24px; float: right;  line-height: 24px; background:url(../img/phone.png) no-repeat
+	left center; margin-top:11px;
+	
+}
+/*电话写完*/
+.main_con_nav{
+	width:100%; height:41px; background:url(../img/nav_bg.png) repeat-x; 
+}
+.main_con_nav_list{
+	overflow: hidden; width:950px; height:41px; margin:0 auto;
+}
+.main_con_nav_list1{
+	float: left; line-height:41px; width:105px; height:41px; text-align: center;
+}
+.main_con_nav_list1 a{
+	font-size:12px; color:#fff; font-weight:bold;
+}
+/*导航结束*/
+.main_con_banner{
+	width:100%; margin-top:9px;
+}
+.main_con_banner_tupian{
+	width:950px; margin:0 auto;
+}
+/*banner结束*/
+.main_neirong{
+	width:100%; margin-top:9px;
+}
+.main_neirong_zhuti{
+	width:950px; height:593px; margin:0 auto; background:#fff;
+}
+/*中间内容（白色背景的部分）*/
+.main_foot{
+	width:100%; height:119px;
+}
+.main_foot_zhuti{
+	width:950px; margin:0 auto; height:119px; background:url(../img/foot_bg.png) no-repeat; overflow: hidden;
+} 
+.main_foot_zhuti_le{
+	float: left;
+}
+.main_foot_zhuti_ri{
+	float: right;
+}
+.main_foot_zhuti_le{
+	margin-top:40px; margin-left:13px;
+}
+.main_foot_zhuti_web{
+	font-size:22px; color:#66453e; font-weight: bold;
+}
+.main_foot_zhuti_ri{
+	margin-top:27px;
+}
+.main_foot_zhuti_ri li{
+	text-align: right; font-size:12px; line-height:25px;
+}
